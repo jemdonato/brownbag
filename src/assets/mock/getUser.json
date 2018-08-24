@@ -1,0 +1,25 @@
+{
+    "status": "Ok",
+    "data": [
+        {
+            "username": "andre",
+            "email": "nelson.d.bendigosa@accenture.com",
+            "contactNo": "0989009888"
+        },
+        {
+            "username": "jam",
+            "email": "nelson.d.bendigosa@accenture.com",
+            "contactNo": "0989009888"
+        },
+        {
+            "username": "ian",
+            "email": "nelson.d.bendigosa@accenture.com",
+            "contactNo": "0989009888"
+        },
+        {
+            "username": "jem",
+            "email": "nelson.d.bendigosa@accenture.com",
+            "contactNo": "0989009888"
+        }
+    ]
+}
